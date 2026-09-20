@@ -2,7 +2,8 @@
 
 I'm a Computer Science student at **UT Dallas**, graduating **May 2028**. I'm an aspiring Software Engineer with a passion for learning, collaborating and building. 
 
-I moved to the US from Doha, Qatar for college and I speak English, Malayalam and Hindi.
+I moved to the US from Doha, Qatar for college and I speak English, Malayalam and Hindi. I have a fascination for languages and am able to read Tamil, Arabic (with minimal understanding), and Urdu. 
+
 ---
 
 ## What I build
